@@ -1,0 +1,6 @@
+C:\Users\bhekanimasinga\Documents\testingForGit\testingForGit\bin\Debug\testingForGit.exe.config
+C:\Users\bhekanimasinga\Documents\testingForGit\testingForGit\bin\Debug\testingForGit.exe
+C:\Users\bhekanimasinga\Documents\testingForGit\testingForGit\bin\Debug\testingForGit.pdb
+C:\Users\bhekanimasinga\Documents\testingForGit\testingForGit\obj\Debug\testingForGit.csproj.CoreCompileInputs.cache
+C:\Users\bhekanimasinga\Documents\testingForGit\testingForGit\obj\Debug\testingForGit.exe
+C:\Users\bhekanimasinga\Documents\testingForGit\testingForGit\obj\Debug\testingForGit.pdb
